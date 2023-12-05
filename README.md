@@ -1,4 +1,5 @@
-# [ICCV2023: "GET: Group Event Transformer"](https://arxiv.org/abs/2310.02642)
+
+# The repitition of the [ICCV2023: "GET: Group Event Transformer"](https://arxiv.org/abs/2310.02642)
 
 [<img src="figures/teaser.png" alt="teaser" width="600"/>](https://arxiv.org/abs/2310.02642)
 
